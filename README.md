@@ -1,4 +1,4 @@
-# vue-calculator-spa
+# vue-tax-calculator
 
 ## Project setup
 ```
